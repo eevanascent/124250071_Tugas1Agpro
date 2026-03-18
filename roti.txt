@@ -1,0 +1,5 @@
+1|Strawberry Shortcake|33000|10
+2|Cheesecake|27000|15
+3|Blackforest|31000|4
+4|Biscoff|24500|20
+5|Caramel|31000|9
